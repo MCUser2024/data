@@ -1,0 +1,17 @@
+group,answer,value
+Film,Out of work,0.71
+Film,Affected by US strikes,0.86
+Film,Unemployed for 2/3 of the past 3 months,0.68
+Film,Planning to leave within 5 years,0.3
+TV drama,Out of work,0.7
+TV drama,Affected by US strikes,0.81
+TV drama,Unemployed for 2/3 of the past 3 months,0.68
+TV drama,Planning to leave within 5 years,0.3
+Unscripted TV,Out of work,0.65
+Unscripted TV,Affected by US strikes,0.39
+Unscripted TV,Unemployed for 2/3 of the past 3 months,0.59
+Unscripted TV,Planning to leave within 5 years,0.52
+Commercials,Out of work,0.7
+Commercials,Affected by US strikes,0.81
+Commercials,Unemployed for 2/3 of the past 3 months,0.71
+Commercials,Planning to leave within 5 years,0.31
