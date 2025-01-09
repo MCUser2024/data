@@ -1,0 +1,25 @@
+region,metric,value
+Scotland,Exports,3.2
+Scotland,GVA,2.7
+Northern Ireland,Exports,1.3
+Northern Ireland,GVA,0.5
+North West,Exports,8.1
+North West,GVA,8.5
+North East,Exports,2.8
+North East,GVA,2.6
+Yorkshire and The Humber,Exports,3.4
+Yorkshire and The Humber,GVA,3.4
+East Midlands,Exports,1.8
+East Midlands,GVA,1.4
+West Midlands,Exports,1.4
+West Midlands,GVA,0.9
+Wales,Exports,2.5
+Wales,GVA,1.9
+South West,Exports,1.3
+South West,GVA,1.5
+South East,Exports,11.3
+South East,GVA,5.6
+London,Exports,7.2
+London,GVA,0.8
+East England,Exports,8
+East England,GVA,3.7
